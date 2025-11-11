@@ -1,0 +1,20 @@
+# -----------------------------------------------------------------
+# Minimal Configuration for GitHub Pages (ignacionimo.github.io)
+# -----------------------------------------------------------------
+
+# 1. Site Metadata
+title: Ignacio's Knowledge Portfolio
+description: A public log of concepts and projects, inspired by The Pragmatic Programmer.
+author: ignacionimo
+
+# 2. Theme Selection
+theme: jekyll-theme-minimal
+
+# 3. Exclude Files
+# Exclude files you don't want copied to the final site output.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - README.md

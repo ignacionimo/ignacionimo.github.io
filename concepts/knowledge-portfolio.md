@@ -1,3 +1,9 @@
+---
+layout: page
+title: Knowledge Portfolio Introduction
+permalink: /concepts/knowledge-portfolio/
+---
+
 # My Knowledge Portfolio: An Introduction
 *Date Started: November 11, 2025*
 
